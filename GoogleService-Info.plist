@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1056977868639-lpl89ukpled6g3fbo9ikk5uaoiqrhff2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1056977868639-lpl89ukpled6g3fbo9ikk5uaoiqrhff2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChQUlEpLK2ihIly7qo2g-9zW0R0rZYg9c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1056977868639</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.erayerman.iOS-FlickrApp</string>
+	<key>PROJECT_ID</key>
+	<string>ios-flickr</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-flickr.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1056977868639:ios:39418d3a02ebd9359d88ea</string>
+</dict>
+</plist>
